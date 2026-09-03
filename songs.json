@@ -3159,6 +3159,19 @@
         "memo":  ""
     },
     {
+        "id":  4700000000243,
+        "title":  "ハニートリック！！[UPPER]",
+        "level":  47,
+        "chartType":  "EX",
+        "status":  "UNPLAYED",
+        "genre":  "解明ヒロインⓊ",
+        "bpm":  "160～190",
+        "notes":  1324,
+        "difficultyIndex":  null,
+        "category":  "HC",
+        "memo":  ""
+    },
+    {
         "id":  4800000000000,
         "title":  "POP-STEP-UP",
         "level":  48,
