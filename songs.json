@@ -3172,6 +3172,19 @@
         "memo":  ""
     },
     {
+        "id":  4700000000244,
+        "title":  "TEKNO KEISER",
+        "level":  47,
+        "chartType":  "EX",
+        "status":  "UNPLAYED",
+        "genre":  "デステクノ",
+        "bpm":  "168",
+        "notes":  1403,
+        "difficultyIndex":  null,
+        "category":  "HC",
+        "memo":  ""
+    },
+    {
         "id":  4800000000000,
         "title":  "POP-STEP-UP",
         "level":  48,
