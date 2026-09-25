@@ -3185,6 +3185,19 @@
         "memo":  ""
     },
     {
+        "id":  4700000000245,
+        "title":  "Hibiki[UPPER]",
+        "level":  47,
+        "chartType":  "EX",
+        "status":  "UNPLAYED",
+        "genre":  "リムピッドⓊ",
+        "bpm":  "195",
+        "notes":  1474,
+        "difficultyIndex":  null,
+        "category":  "HC",
+        "memo":  ""
+    },
+    {
         "id":  4800000000000,
         "title":  "POP-STEP-UP",
         "level":  48,
