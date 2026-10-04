@@ -2829,7 +2829,7 @@
         "genre":  "あさきのコラボロックⓊ",
         "bpm":  "210",
         "notes":  1356,
-        "difficultyIndex":  null,
+        "difficultyIndex":  0.836,
         "category":  "HC",
         "memo":  ""
     },
@@ -2842,7 +2842,7 @@
         "genre":  "ウインドシャッフル",
         "bpm":  "270",
         "notes":  1359,
-        "difficultyIndex":  null,
+        "difficultyIndex":  0.447,
         "category":  "HC",
         "memo":  ""
     },
@@ -2855,7 +2855,7 @@
         "genre":  "エピックノヴァ",
         "bpm":  "198",
         "notes":  1317,
-        "difficultyIndex":  null,
+        "difficultyIndex":  0.74,
         "category":  "HC",
         "memo":  ""
     },
@@ -2868,7 +2868,7 @@
         "genre":  "演説2",
         "bpm":  "138",
         "notes":  1341,
-        "difficultyIndex":  null,
+        "difficultyIndex":  0.664,
         "category":  "HC",
         "memo":  ""
     },
@@ -2881,7 +2881,7 @@
         "genre":  "空想ファンタジーシリーズ",
         "bpm":  "193",
         "notes":  1383,
-        "difficultyIndex":  null,
+        "difficultyIndex":  -0.204,
         "category":  "HC",
         "memo":  ""
     },
@@ -2894,7 +2894,7 @@
         "genre":  "グリッチダブステップ",
         "bpm":  "150",
         "notes":  1309,
-        "difficultyIndex":  null,
+        "difficultyIndex":  0.179,
         "category":  "HC",
         "memo":  ""
     },
@@ -2907,7 +2907,7 @@
         "genre":  "ドリーミードラムンⓊ",
         "bpm":  "170",
         "notes":  1213,
-        "difficultyIndex":  null,
+        "difficultyIndex":  -0.363,
         "category":  "HC",
         "memo":  ""
     },
@@ -2920,7 +2920,7 @@
         "genre":  "丼ベース",
         "bpm":  "180",
         "notes":  1363,
-        "difficultyIndex":  null,
+        "difficultyIndex":  0.423,
         "category":  "HC",
         "memo":  ""
     },
@@ -2933,7 +2933,7 @@
         "genre":  "ハードダンス",
         "bpm":  "80～160",
         "notes":  1295,
-        "difficultyIndex":  null,
+        "difficultyIndex":  0.745,
         "category":  "HC",
         "memo":  ""
     },
@@ -2946,7 +2946,7 @@
         "genre":  "バンギャー",
         "bpm":  "150～200",
         "notes":  1015,
-        "difficultyIndex":  null,
+        "difficultyIndex":  0.784,
         "category":  "HC",
         "memo":  ""
     },
@@ -2959,7 +2959,7 @@
         "genre":  "プログレッシブトライバル",
         "bpm":  "155",
         "notes":  1330,
-        "difficultyIndex":  null,
+        "difficultyIndex":  0.238,
         "category":  "HC",
         "memo":  ""
     },
@@ -2972,7 +2972,7 @@
         "genre":  "ラストアーツ",
         "bpm":  "165",
         "notes":  1406,
-        "difficultyIndex":  null,
+        "difficultyIndex":  -0.356,
         "category":  "HC",
         "memo":  ""
     },
@@ -2985,7 +2985,7 @@
         "genre":  "DTMスピードラン",
         "bpm":  "157～177",
         "notes":  1353,
-        "difficultyIndex":  null,
+        "difficultyIndex":  0.055,
         "category":  "HC",
         "memo":  ""
     },
@@ -5260,7 +5260,7 @@
         "genre":  "ONYX",
         "bpm":  "200",
         "notes":  1500,
-        "difficultyIndex":  null,
+        "difficultyIndex":  -0.157,
         "category":  "JF",
         "memo":  ""
     },
@@ -5312,7 +5312,7 @@
         "genre":  "アンサラー",
         "bpm":  "190",
         "notes":  1461,
-        "difficultyIndex":  null,
+        "difficultyIndex":  0.511,
         "category":  "HC",
         "memo":  ""
     },
@@ -5325,7 +5325,7 @@
         "genre":  "オルタナティブアビス",
         "bpm":  "150",
         "notes":  1387,
-        "difficultyIndex":  null,
+        "difficultyIndex":  0.862,
         "category":  "HC",
         "memo":  ""
     },
@@ -5338,7 +5338,7 @@
         "genre":  "ガチャメタル",
         "bpm":  "120～220",
         "notes":  1386,
-        "difficultyIndex":  null,
+        "difficultyIndex":  -0.686,
         "category":  "HC",
         "memo":  ""
     },
@@ -5351,7 +5351,7 @@
         "genre":  "ケルティックヴァース",
         "bpm":  "194",
         "notes":  1495,
-        "difficultyIndex":  null,
+        "difficultyIndex":  0.549,
         "category":  "HC",
         "memo":  ""
     },
@@ -5364,7 +5364,7 @@
         "genre":  "ゴシックナイトメア2",
         "bpm":  "185～249",
         "notes":  1386,
-        "difficultyIndex":  null,
+        "difficultyIndex":  0.81,
         "category":  "HC",
         "memo":  ""
     },
@@ -5377,7 +5377,7 @@
         "genre":  "ダークナイト",
         "bpm":  "151",
         "notes":  1484,
-        "difficultyIndex":  null,
+        "difficultyIndex":  0.411,
         "category":  "HC",
         "memo":  ""
     },
@@ -5390,7 +5390,7 @@
         "genre":  "デンパズルビート",
         "bpm":  "190",
         "notes":  1493,
-        "difficultyIndex":  null,
+        "difficultyIndex":  0.222,
         "category":  "HC",
         "memo":  ""
     },
@@ -5403,7 +5403,7 @@
         "genre":  "トラウマパンク",
         "bpm":  "171",
         "notes":  1533,
-        "difficultyIndex":  -0.485,
+        "difficultyIndex":  -0.455,
         "category":  "HC",
         "memo":  ""
     },
@@ -5416,7 +5416,7 @@
         "genre":  "ドラムンコアダスト2Ⓤ",
         "bpm":  "186",
         "notes":  1459,
-        "difficultyIndex":  null,
+        "difficultyIndex":  0.583,
         "category":  "HC",
         "memo":  ""
     },
@@ -5429,7 +5429,7 @@
         "genre":  "ハイパーデジメタル",
         "bpm":  "190",
         "notes":  1533,
-        "difficultyIndex":  null,
+        "difficultyIndex":  0.094,
         "category":  "HC",
         "memo":  ""
     },
@@ -5442,7 +5442,7 @@
         "genre":  "初音ミクの消失",
         "bpm":  "240",
         "notes":  1531,
-        "difficultyIndex":  null,
+        "difficultyIndex":  -0.655,
         "category":  "HC",
         "memo":  ""
     },
@@ -5455,7 +5455,7 @@
         "genre":  "ハムパラドックス",
         "bpm":  "228～250",
         "notes":  1530,
-        "difficultyIndex":  null,
+        "difficultyIndex":  0.522,
         "category":  "HC",
         "memo":  ""
     },
@@ -5468,7 +5468,7 @@
         "genre":  "フリージングコア",
         "bpm":  "260",
         "notes":  1429,
-        "difficultyIndex":  null,
+        "difficultyIndex":  0.369,
         "category":  "HC",
         "memo":  ""
     },
@@ -5481,7 +5481,7 @@
         "genre":  "マグナムユーロ",
         "bpm":  "169",
         "notes":  1500,
-        "difficultyIndex":  null,
+        "difficultyIndex":  0.304,
         "category":  "HC",
         "memo":  ""
     },
@@ -5494,7 +5494,7 @@
         "genre":  "FMジャジーテック",
         "bpm":  "132～158",
         "notes":  1535,
-        "difficultyIndex":  null,
+        "difficultyIndex":  1.055,
         "category":  "HC",
         "memo":  ""
     },
@@ -6703,7 +6703,7 @@
         "genre":  "ジャッジメントシンフォニックスピードコア",
         "bpm":  "250",
         "notes":  1619,
-        "difficultyIndex":  null,
+        "difficultyIndex":  0.213,
         "category":  "HC",
         "memo":  ""
     },
@@ -6729,7 +6729,7 @@
         "genre":  "ハードサイスピードコア",
         "bpm":  "160",
         "notes":  1473,
-        "difficultyIndex":  null,
+        "difficultyIndex":  0.672,
         "category":  "HC",
         "memo":  ""
     },
@@ -6755,7 +6755,7 @@
         "genre":  "レヴェラチューンⓊ",
         "bpm":  "195",
         "notes":  1553,
-        "difficultyIndex":  null,
+        "difficultyIndex":  0.38,
         "category":  "HC",
         "memo":  ""
     },
