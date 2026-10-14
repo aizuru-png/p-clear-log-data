@@ -1,8 +1,8 @@
 {
     "schemaVersion":  1,
-    "dataVersion":  7,
-    "updatedAt":  "2026-10-04",
-    "songCount":  554,
+    "dataVersion":  8,
+    "updatedAt":  "2026-10-14",
+    "songCount":  553,
     "songsUrl":  "https://raw.githubusercontent.com/aizuru-png/p-clear-log-data/main/songs.json",
-    "sha256":  "8c450546ece6087ee4e8f3aeba01e6a66992cb23ba7f47b4c35c0f9069660b82"
+    "sha256":  "c7c1cc9ed395bc88803ac753b10832634cc57aba40680f079c82db2ded8723b0"
 }
