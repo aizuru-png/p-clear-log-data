@@ -3185,6 +3185,19 @@
         "memo":  ""
     },
     {
+        "id":  4700000000246,
+        "title":  "神よ、ニャンコを与えたまえ！",
+        "level":  47,
+        "chartType":  "EX",
+        "status":  "UNPLAYED",
+        "genre":  "おまじニャい",
+        "bpm":  "222",
+        "notes":  1222,
+        "difficultyIndex":  null,
+        "category":  "HC",
+        "memo":  ""
+    },
+    {
         "id":  4800000000000,
         "title":  "POP-STEP-UP",
         "level":  48,
